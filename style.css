@@ -5,3 +5,8 @@ h1 {
 .lorem {
   color: blue;
 }
+
+#lorem2 {
+  opacity: 0.8;
+  text-align: center;
+}
